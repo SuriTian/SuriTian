@@ -82,7 +82,9 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuriTian&show_icons=true&hide_border=true&theme=default" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriTian&layout=compact&hide_border=true&theme=default" height="130"/>
 </div>
+-->
