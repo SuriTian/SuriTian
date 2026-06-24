@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 | 🚀 | 🔌 | 🧬 |
 |---|---|---|
-| **canard firmware** | **C++ REST APIs** | **LLMs in drug research** |
-| Waterloo Rocketry | SWE / Embedded Intern | UW Direct Reading Program |
+| **raychasing** | **C++ REST APIs** | **LLMs in drug research** |
+| to be released... | SWE / Embedded Intern | UW Direct Reading Program |
 
 ---
 
