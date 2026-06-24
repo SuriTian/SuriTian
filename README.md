@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# ✦ suri tian
+# ✦ suri tian ✦
 
 **software engineering @ waterloo · embedded systems · full-stack**
 
@@ -39,13 +39,29 @@ Here are some ideas to get you started:
 
 ## tools & tech
 
-```
-frontend    →  React · Node.js · Three.js · HTML/CSS
-backend     →  Flask · Express · REST APIs
-databases   →  MySQL · Redis
-embedded    →  C · STM32 · CAN bus · gdbserver · cross-compilation
-devtools    →  Git · SVN · Linux · VIM · Vercel · Unity · LaTeX
-```
+**frontend**
+![React](https://img.shields.io/badge/React-0C447C?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0C447C?style=flat-square&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0C447C?style=flat-square&logo=threedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0C447C?style=flat-square&logo=express&logoColor=white)
+
+**databases & apis**
+![MySQL](https://img.shields.io/badge/MySQL-085041?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-085041?style=flat-square&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-085041?style=flat-square)
+
+**embedded**
+![STM32](https://img.shields.io/badge/STM32-3C3489?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![CAN bus](https://img.shields.io/badge/CAN_bus-3C3489?style=flat-square)
+![gdbserver](https://img.shields.io/badge/gdbserver-3C3489?style=flat-square)
+![cross-compilation](https://img.shields.io/badge/cross--compilation-3C3489?style=flat-square)
+
+**devtools**
+![Git](https://img.shields.io/badge/Git%2FSVN-444441?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FVIM-444441?style=flat-square&logo=linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-444441?style=flat-square&logo=vercel&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-444441?style=flat-square&logo=unity&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-444441?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
