@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SuriTian/SuriTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 **software engineering @ waterloo · embedded systems · full-stack**
 
 ![UWaterloo](https://img.shields.io/badge/UWaterloo-SE_2030-7F77DD?style=flat-square&logo=data:image/svg+xml;base64,)
-![---](https://img.shields.io/badge/SWE_Intern-378ADD?style=flat-square)
+![Embedded Intern](https://img.shields.io/badge/SWE_Intern-378ADD?style=flat-square)
 ![Rocketry](https://img.shields.io/badge/Waterloo_Rocketry-Firmware-1D9E75?style=flat-square)
 ![Research](https://img.shields.io/badge/LLM_Research-Drug_Discovery-BA7517?style=flat-square)
 
@@ -64,7 +62,7 @@ devtools    →  Git · SVN · Linux · VIM · Vercel · Unity · LaTeX
 | 🚀 | 🔌 | 🧬 |
 |---|---|---|
 | **canard firmware** | **C++ REST APIs** | **LLMs in drug research** |
-| Waterloo Rocketry | ------------ | UW Direct Reading Program |
+| Waterloo Rocketry | SWE / Embedded Intern | UW Direct Reading Program |
 
 ---
 
